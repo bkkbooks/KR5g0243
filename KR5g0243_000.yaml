@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0243/krp/v1/juan/0
+seq: 0
+front:
+  text: 凡例一洞真部則無上法王元始天尊所出號洞
+  hash: sha256:e4de54c1b4e6f918b1a00701fa9f1faf539473783311a692a641a76a83b387d8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0243_HFL_000-001a, image: hfl/1057/1057-014.png}
+body:
+  text: 真經而為大乘上法乃九聖之道其部分為十二類一曰本文即三元八會之書長行緣起之說為經教之本之例二曰神符即龍章鳯篆之文靈跡符書之字之例三曰玉訣如河上公注釋道德解金書之例四曰靈圖如含景五帝之象圖局三一之形之例五曰譜録如生神章所述三君之本行所陳五帝之示形之例六曰戒律如防止六情十惡之例七曰威儀如齊法典式請經軌儀之例八曰方法如存三守一制魄拘魂䇿役鬼神祈禱雨腸濟幽度顯之例九曰衆術如變丹錬石化形隱景陰陽術數藥餌導養之例十曰記傳如道君本業皇人往行之例十一曰讚頌如九天舊章之例十二曰表奏如六齊啓願三會請謁之例凡係元始天尊流演者各擊於其類其輔則有太玄部一洞玄部則三界醫王太上道君所出號洞玄經而為中乘中法乃九真之道其部亦有十二類與前洞真所部并同凡係太上道君流演者各繫於其類其輔則有太平部一洞神部則十方道師太上老君所出號洞神經而為小乘初法乃九仙之道其部亦有十二類與前洞真所部并同凡係太上老君流演者各繫於其類其輔則有三清部此外又有正一部正一者則通貫巳上洞輔之部歸會于此凡七部故曰三洞四輔凡例終
+  hash: sha256:13aadf43faccd92539795a3c88888f41e9a9f5a26661a2edfb8686ccde1a05b8
+metadata:
+  title: 大明道藏經目錄
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 03:00:45.013183'
+  source:
+    repository: kanripo
+    path: KR5g0243/KR5g0243_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:400dbe5a88b583d4f0f771151bc8a919281052028a394e21303fe56185b92082
